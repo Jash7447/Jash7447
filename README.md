@@ -1,4 +1,6 @@
-### Hi there 👋
+### HELLO!!
+
+I write bugs that occasionally compile.
 
 [![An image of @jash7447's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jash7447)](https://holopin.io/@jash7447)
 <!--
